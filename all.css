@@ -6,26 +6,24 @@ h2 {
     line-height: 1.2;
 }
 p {
-    font-size: 16px;
     line-height: 1.5;
 }
 .container {
     width: 640px;
     margin: 0 auto;
 }
-
+.d-flex {
+    display: flex;
+}
 .mb-24 {
     margin-bottom: 24px;
 }
 .ml-20 {
     margin-left: 20px;
 }
-.py-48 {
-    padding: 48px 0;
-}
-.d-flex {
-    display: flex;
-}
 .text-center {
     text-align: center;
+}
+.py-48 {
+    padding: 48px 0;
 }
